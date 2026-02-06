@@ -1,0 +1,8 @@
+# Ignorar archivos del sistema Mac
+.DS_Store
+
+# Ignorar dependencias de Node
+node_modules/
+
+# Ignorar carpetas de compilación (donde TS pone el JS)
+dist/
